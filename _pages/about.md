@@ -4,6 +4,12 @@ title: About
 permalink: /about
 ---
 
-*This is an about page.*
+## 📚🗞🎙📻 🎥 📺 🎮📱🤑
+<b>bundle unbundle</b> is a collection of linked notes about the business of media, information and entertainment.
 
-Feel free to tell the world about what you love! 😍
+[Twitter](https://twitter.com/bundleunbundle) [Email](bundleunbundle@gmail.com)
+
+<br>
+
+Many thanks to [Maxime Vaillancourt](https://twitter.com/vaillancourtmax) for developing and open sourcing the [digital garden](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll) template. 🙏
+
