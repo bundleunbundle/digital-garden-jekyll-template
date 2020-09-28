@@ -5,7 +5,6 @@ id: home
 permalink: /
 ---
 
-## 📚🗞🎙📻 🎥 📺 🎮📱🤑
 <b>bundle unbundle</b> is a collection of linked notes about the business of media, information and entertainment. See the <a class="internal-link" href="/about">About</a> page for more information about this project. 
 
 Thoughts? Ideas? Get in touch. [Twitter](https://twitter.com/bundleunbundle) [Email](bundleunbundle@gmail.com)
